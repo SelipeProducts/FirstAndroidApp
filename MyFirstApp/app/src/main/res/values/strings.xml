@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title_activity_linear_layout">LinearLayout</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send"> Enter some messages </string>
+    <string name="button_send2"> Press Me</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="text_message"> Text Msg </string>
+    <TextView name = "text_message"> TxtMSg </TextView>
+</resources>
